@@ -1,0 +1,18 @@
+Blues,Elwood,555-7778,1060 West Addison Street,Chicago,99300
+Bunker,Archie,555-3497,705 Hauser Street,St.Louis,39583
+Burns,Montgomery,555-9809,1000 Mammon Lane,Springfield,90122
+Cunningham,Richie,555-6748,565 Clinton Drive,Milwaukee,22939
+Dursley,Vernon,01483 519606,4 Privet Drive,Surrey,38383
+Flanders,Ned,555-4983,740 Evergreen Terrace,Springfield,90122
+Griffin,Peter,555-2315,31 Spooner Street,Quahog,50332
+Holmes,Sherlock,207 224 3688,221 Baker Street,London,19303
+Jones,Harriet,20 7925 0918,10 Downing Street,London,19303
+Kramden,Ralph,555-4252,328 Chauncey Street,Brooklyn,10101
+Nelson,Major,555-4234,1020 Palm Drive,Cocoa Beach,33390
+Ricardo,Ricky,555-4231,4 East 68th Street,New York,10101
+Sanford,Fred,555-8737,9114 Central,Los Angeles,90633
+Simpson,Homer,555-9802,742 Evergreen Terrace,Springfield,90122
+Simpson,Lisa,54321,123 Fake ST,Springfield,90122
+Squarepants,Spongebob,555-8942,124 Conch Street,Bikini Bottom,10022
+Tripper,Jack,555-8972,834 Ocean Vista Avenue,Santa Monica,90301
+Unger,Felix,555-4324,1049 Park Avenue,New York,10101
